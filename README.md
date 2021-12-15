@@ -1,1 +1,3 @@
-# CS_8803_DMM_Affinity_Coding_for_Automatic_Text_Data_Labeling
+# CS 8803 DMM Affinity Coding for Automatic Text Data Labeling
+
+Our project aims to extend the GOGGLES framework for automatic image labeling to text data by leveraging the affinity coding paradigm.
